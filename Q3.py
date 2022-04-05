@@ -2,7 +2,7 @@
 #Question2B
 
 #prompt user to key in module code
-code = input("Please enter the module code: CSCXXXX")
+code = input("Please enter the module code CSCXXXX: ")
 
 match code:
     case "CSC1010":
